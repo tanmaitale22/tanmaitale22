@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanmaitale22
 - 👀 I’m interested in everything around me
-- 🌱 I’m currently learning cpp and web development
+- 🌱 I’m currently learning Data Structure and Analysis
 - 📫 Here's my emailId: tanmaitale@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ VIT PUNE 27 (Computer Science)
